@@ -20,3 +20,18 @@
 * [Flight & Luggage](before-departure/markdown.md)
 * [Housing](before-departure/images-and-media.md)
 * [Furniture & Grocery](before-departure/interactive-blocks.md)
+
+## Upon Arrival
+
+* [Page 1](upon-arrival/page-1.md)
+
+## Academic @ UM
+
+* [Credit Transfer](academic-um/credit-transfer.md)
+* [Credit Plan](academic-um/credit-plan.md)
+* [Research Opportunity](academic-um/research-opportunity.md)
+* [Internship](academic-um/internship.md)
+
+## Life @ US
+
+* [Driver License](life-us/driver-license.md)
