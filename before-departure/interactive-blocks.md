@@ -1,0 +1,6 @@
+---
+icon: couch
+---
+
+# Furniture & Grocery
+

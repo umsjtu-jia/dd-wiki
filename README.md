@@ -9,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -18,12 +18,12 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Welcome to JIA DD Wiki
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+## About JIA
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+## Credit
 
-### Jump right in
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+* UM-SJTU JIA [DD Survival Guide](https://docs.google.com/document/d/1_pf-lEESayPWR-PdVmNsOyS05Sw30sr8/edit?usp=sharing\&ouid=100946512975069109795\&rtpof=true\&sd=true)
+* UM-SJTU Joint Institute Advising Center [DD Wiki](https://umji-wiki.gitbook.io/dd-wiki)
+* UM CSSA [New Student Guide](https://drive.google.com/file/d/10D2sy9YYK4LVRgy756TNyiNMkqV3T3vZ/view?usp=drive_link)

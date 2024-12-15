@@ -1,17 +1,22 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to JIA DD Wiki](README.md)
 
 ## Getting Started
 
+* [Welcome](getting-started/readme.md)
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
+* [Editor](getting-started/editor.md)
+* [Markdown](getting-started/markdown.md)
+* [Images & media](getting-started/images-and-media.md)
+* [Interactive blocks](getting-started/interactive-blocks.md)
+* [Integrations](getting-started/integrations.md)
+* [OpenAPI](getting-started/openapi.md)
 
-## Basics
+## Before Departure
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Visa Application](before-departure/editor.md)
+* [Flight & Luggage](before-departure/markdown.md)
+* [Housing](before-departure/images-and-media.md)
+* [Furniture & Grocery](before-departure/interactive-blocks.md)
