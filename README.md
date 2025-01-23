@@ -1,5 +1,6 @@
 ---
 icon: hand-wave
+description: '2025 Edition Authors: ...'
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
