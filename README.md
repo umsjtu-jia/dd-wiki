@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-description: '2025 Edition Authors: ...'
+description: '2025 Edition Group: Shuoyu Chen, Yuchen You, Jingjia Peng, Yuefeng Jin'
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
@@ -22,6 +22,8 @@ layout:
 # Welcome to JIA DD Wiki
 
 ## About JIA
+
+The UM-SJTU Joint Institute Alumni Association (JIA) aims to create a vibrant social network for students, scholars, and alumni who have participated in the partnership programs between Shanghai Jiao Tong University and the University of Michigan. The organization is lead by JI alumni at Ann Arbor, and develops its member among JI alumni all over the world.
 
 ## Credit
 

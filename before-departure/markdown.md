@@ -8,20 +8,33 @@ icon: plane-lock
 
 ### Flight Selection
 
-**Airports**: Detroit Metropolitan Airport (DTW) 30 min driving
+**Destination Airports**: Detroit Metropolitan Airport (DTW) 30 min driving
 
+**Terminals**:
 
+* McNamara Terminal: Delta Air Lines, Air France, and KLM Royal Dutch Airlines
+* North Terminal: all other airlines
 
-### Airport Pick-up Options
+**Recommended Flight**: Delta direct flight from Shanghai Pudong (PVG) to DTW, one week before start of the semester
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-01-28 at 4.33.16 PM.png" alt=""><figcaption><p>Delta Booking Page: Price may change</p></figcaption></figure>
 
+### Airport Pickup Options
+
+* JIA Airport Pickup: Details announced in DD WeChat group
+* UM CSSA Airport Pickup: Details announced in UM CSSA WeChat Official Account
+* Michigan Flyer: [http://www.michiganflyer.com](http://www.michiganflyer.com), from Detroit Metro Airport to Ann Arbor Blake Transit Center
+* AirRide: [https://www.theride.org/Services/Airport-Service](https://www.theride.org/Services/Airport-Service)
+* CSG AirBus: [https://www.csg.umich.edu/airbus](https://www.csg.umich.edu/airbus)
+* Uber / Lyft: Reserved via App
 
 ## Luggage
 
-Many airlines allow one free check bag for international flights, but the policies differ. Some of them allow two check bags free. Please pay attention to the **number of free bags** and **size requirements** to avoid check bag fees. Some airlines offer international student special tickes that allow more checked in bags.&#x20;
+Many airlines allow one free check bag for international flights, but the policies differ. Some of them allow two check bags free. Please pay attention to the **number of free bags** and **size requirements** to avoid check bag fees. Some airlines offer international student special tickets that allow more checked in bags.&#x20;
 
-\
-
+{% hint style="danger" %}
+Check the Forbidden Items List and pay attention to the drugs and food section: [http://newyork.china-consulate.gov.cn/lbqw/mdlxzn/201503/P020210816588007358634.pdf](http://newyork.china-consulate.gov.cn/lbqw/mdlxzn/201503/P020210816588007358634.pdf)
+{% endhint %}
 
 ### About Mobile Phone
 
@@ -55,5 +68,3 @@ HUAWEI phone cannot access mobile data roaming in the US! Please prepare another
 ### About International Shipping
 
 Winter cloth and bedding can be shipped via sea transportation, arriving in 1-2 months, so you don't need to bring them on your flight.
-
-TODO: add shipping links
