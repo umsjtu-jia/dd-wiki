@@ -20,6 +20,7 @@
 * [Flight & Luggage](before-departure/markdown.md)
 * [Housing](before-departure/images-and-media.md)
 * [Furniture & Grocery](before-departure/interactive-blocks.md)
+* [Enrollment Preparation](before-departure/enrollment-preparation.md)
 
 ## Upon Arrival
 
