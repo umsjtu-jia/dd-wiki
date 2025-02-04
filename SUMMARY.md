@@ -16,10 +16,10 @@
 
 ## Before Departure
 
-* [Visa Application](before-departure/editor.md)
-* [Flight & Luggage](before-departure/markdown.md)
-* [Housing](before-departure/images-and-media.md)
-* [Furniture & Grocery](before-departure/interactive-blocks.md)
+* [Visa Application](before-departure/visa-application.md)
+* [Flight & Luggage](before-departure/flight-luggage.md)
+* [Housing](before-departure/housing.md)
+* [Furniture & Grocery](before-departure/furniture-grocery.md)
 * [Enrollment Preparation](before-departure/enrollment-preparation.md)
 
 ## Upon Arrival
