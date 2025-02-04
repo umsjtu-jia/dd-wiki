@@ -19,7 +19,7 @@
 * [Visa Application](before-departure/visa-application.md)
 * [Flight & Luggage](before-departure/flight-luggage.md)
 * [Housing](before-departure/housing.md)
-* [Furniture & Grocery](before-departure/interactive-blocks.md)
+* [Furniture & Grocery](before-departure/furniture-grocery.md)
 * [Enrollment Preparation](before-departure/enrollment-preparation.md)
 
 ## Upon Arrival
