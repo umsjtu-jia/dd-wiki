@@ -1,0 +1,44 @@
+<html>
+
+<head>
+    <title>Add a Map with Markers using HTML</title>
+</head>
+
+<body>
+    <gmp-map center="42.30099883183537, -83.71291519480725" zoom="14" map-id="DEMO_MAP_ID" style="height: 800px">
+        <gmp-advanced-marker position="42.29944560393877, -83.71716593573622" title="Willowtree"></gmp-advanced-marker>
+        <gmp-advanced-marker position="42.29534386652258, -83.72125104202394" title="Courtyards"></gmp-advanced-marker>
+        <gmp-advanced-marker position="42.30919468995809, -83.71421303107697"
+            title="Traver Ridge"></gmp-advanced-marker>
+        <gmp-advanced-marker position="42.30467628041796, -83.71577346852723" title="Oakcliff"></gmp-advanced-marker>
+        <gmp-advanced-marker position="42.31821403919034, -83.70657391449967"
+            title="Villas at NorthStar"></gmp-advanced-marker>
+        <gmp-advanced-marker position="42.29879647956255, -83.68950718195183" title="GreenBrier"></gmp-advanced-marker>
+        <gmp-advanced-marker position="42.32213459591501, -83.70727646385272" title="Owl Creek"></gmp-advanced-marker>
+        <gmp-advanced-marker position="42.3092870997444, -83.73796991085042" title="The One"></gmp-advanced-marker>
+        <gmp-advanced-marker position="42.29017688502036, -83.73647037148842"
+            title="Beekman on Broadway"></gmp-advanced-marker>
+        <gmp-advanced-marker position="42.29916206046116, -83.7288810006283"
+            title="Traver Crossing"></gmp-advanced-marker>
+        <gmp-advanced-marker position="42.3090567918646, -83.71421833227267"
+            title="Traver Heights"></gmp-advanced-marker>
+        <gmp-advanced-marker position="42.297265879260564, -83.72500431027797"
+            title="The Highlands"></gmp-advanced-marker>
+        <gmp-advanced-marker position="42.285601584769836, -83.71753727331966"
+            title="Huron Towers"></gmp-advanced-marker>
+    </gmp-map>
+
+    <!-- 
+      The `defer` attribute causes the script to execute after the full HTML
+      document has been parsed. For non-blocking uses, avoiding race conditions,
+      and consistent behavior across browsers, consider loading using Promises. See
+      https://developers.google.com/maps/documentation/javascript/load-maps-js-api
+      for more information.
+      -->
+    <!-- key= field may be changed later on -->
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&libraries=maps,marker&v=beta"
+        defer></script>
+</body>
+
+</html>
