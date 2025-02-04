@@ -1,6 +1,5 @@
 ---
 icon: hand-wave
-description: '2025 Edition Group: Shuoyu Chen, Yuchen You, Jingjia Peng, Yuefeng Jin'
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:

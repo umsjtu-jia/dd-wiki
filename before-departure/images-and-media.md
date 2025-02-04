@@ -51,6 +51,12 @@ Common terms:&#x20;
 * 1B1B – One bedroom one bathroom
 * 1B1.5B – One bedroom one full bathroom and one guest bathroom without shower or bathtub
 
+### Map
+
+
+
+### Details
+
 <details>
 
 <summary>Willowtree</summary>
@@ -164,7 +170,7 @@ Notes:
 
 <details>
 
-<summary>Oak Cliff</summary>
+<summary>Oakcliff</summary>
 
 [https://oakcliffapt.com](https://oakcliffapt.com)
 
