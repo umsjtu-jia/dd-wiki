@@ -46,13 +46,14 @@ Rates listed here: ([https://housing.umich.edu/graduate-rates/](https://housing.
 
 Here we will focus mainly on housing on north campus, and you can use the above link to look for other places if needed!
 
-Common terms:&#x20;
+Common terms:
 
 * 1B1B – One bedroom one bathroom
 * 1B1.5B – One bedroom one full bathroom and one guest bathroom without shower or bathtub
 
 ### Map
 
+[https://umsjtu-jia.github.io/dd-wiki/housing-map.html](https://umsjtu-jia.github.io/dd-wiki/housing-map.html)
 
 ### Details
 
@@ -328,7 +329,7 @@ Price
 * 2b2.5b: \~1550 per month per room
 * 3b3.5b: \~1400 per month per unit
 * 4b4.5b: \~1200 per month per unit
-* 5b5.5b:  \~1000 per month per unit
+* 5b5.5b: \~1000 per month per unit
 
 Amenities
 
@@ -516,7 +517,7 @@ Price
 * Studio: \~1400 per month per room
 * 1b1b: \~1550 per month per room
 * 2b1b: \~900 per month per room
-* 3b1.5b:  \~900 per month per room
+* 3b1.5b: \~900 per month per room
 
 Amenities
 
@@ -553,8 +554,8 @@ Some apartments offer one-year leases, where the first month (Usually July - Aug
 
 Be aware: The leasing office often charges you fees outside of your rent, including monthly fees for drainage, management, garbage collection, etc.
 
-Some leasing offices will charge extra when you change, terminate, or renew your lease. Don’t agree to the terms or payment immediately when they mention it! Most terms are negotiable, some might even be illegal in Ann Arbor.  Highlights: You don’t have to decide whether to renew a lease until 150 days before the end of the current lease. You have the right to sublease.
+Some leasing offices will charge extra when you change, terminate, or renew your lease. Don’t agree to the terms or payment immediately when they mention it! Most terms are negotiable, some might even be illegal in Ann Arbor. Highlights: You don’t have to decide whether to renew a lease until 150 days before the end of the current lease. You have the right to sublease.
 
 ### Rights and Duties
 
-Read the [booklet from the city of Ann Arbor](https://www.a2gov.org/departments/city-clerk/Documents/City-Tenant-Landlord%20Tenants%20Rights%20and%20Duties%20-%20FINAL.pdf) carefully&#x20;
+Read the [booklet from the city of Ann Arbor](https://www.a2gov.org/departments/city-clerk/Documents/City-Tenant-Landlord%20Tenants%20Rights%20and%20Duties%20-%20FINAL.pdf) carefully

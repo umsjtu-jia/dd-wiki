@@ -1,3 +1,7 @@
+---
+icon: memo-circle-info
+---
+
 # Enrollment Preparation
 
 ## UM Account Setup
