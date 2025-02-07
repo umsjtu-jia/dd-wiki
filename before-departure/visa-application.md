@@ -40,16 +40,6 @@ Apply for I-20
 All the content below is based on the experience of Class 2026. For potential new policies faced by Class 2027, please refer to relevant official documents and websites.
 {% endhint %}
 
-#### Reference Websites
-
-* [ps://enrollmentconnect.umich.edu/account/login](https://enrollmentconnect.umich.edu/account/login)
-* WolverineAccess: [https://wolverineaccess.umich.edu](https://wolverineaccess.umich.edu/)
-* University of Michigan Admission Financial Resource Statement: [https://admissions.umich.edu/sites/default/files/file/Financial\_Resources\_Statement.pdf](https://admissions.umich.edu/sites/default/files/file/Financial_Resources_Statement.pdf)
-* DS-160 Fill-out Online: [https://ceac.state.gov/genniv/](https://ceac.state.gov/genniv/)
-* I-901 Fee Payment Online: [https://www.fmjfee.com/i901fee/index.html](https://www.fmjfee.com/i901fee/index.html)
-* CGI (Visa Interview Appointment): [https://portal.ustraveldocs.com/](https://portal.ustraveldocs.com/)
-* Visa status check: [https://ceac.state.gov/CEACStatTracker/Status.aspx](https://ceac.state.gov/CEACStatTracker/Status.aspx)
-
 In mid-February, everyone who has applied for DD program would receive the admission state update inform from Michigan Admissions by email with which the Michigan Enrollment Connect account got registered. Then the applicant could log into Michigan Enrollment Connect to check. If what you see next is an offer with blue and yellow ribbons floating on the website, congratulations! You've been accepted by University of Michigan!
 
 <figure><img src="../.gitbook/assets/offer letter processed.jpg" alt="" width="375"><figcaption><p>Admission Letter</p></figcaption></figure>
@@ -170,3 +160,13 @@ The result of administrative processing means that the officer hasn't made the d
 {% hint style="info" %}
 It usually takes a few business days to process the visa. Once the status shown on the website becomes "**Issued**", you'll get access to your passport based on the way you chose in the appointment reservation.
 {% endhint %}
+
+## References
+
+* University of Michigan Enrollment Connect [https://enrollmentconnect.umich.edu/account/login](https://enrollmentconnect.umich.edu/account/login)
+* WolverineAccess: [https://wolverineaccess.umich.edu](https://wolverineaccess.umich.edu/)
+* University of Michigan Admission Financial Resource Statement: [https://admissions.umich.edu/sites/default/files/file/Financial\_Resources\_Statement.pdf](https://admissions.umich.edu/sites/default/files/file/Financial_Resources_Statement.pdf)
+* DS-160 Fill-out Online: [https://ceac.state.gov/genniv/](https://ceac.state.gov/genniv/)
+* I-901 Fee Payment Online: [https://www.fmjfee.com/i901fee/index.html](https://www.fmjfee.com/i901fee/index.html)
+* CGI (Visa Interview Appointment): [https://portal.ustraveldocs.com/](https://portal.ustraveldocs.com/)
+* Visa status check: [https://ceac.state.gov/CEACStatTracker/Status.aspx](https://ceac.state.gov/CEACStatTracker/Status.aspx)
