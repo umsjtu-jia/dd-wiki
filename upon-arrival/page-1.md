@@ -56,9 +56,13 @@ Usually, the Backpack opens a couple days before official registration, between 
 
 ### Waitlist
 
-When adding courses to the Backpack, students could select the Waitlist option for potential needs. If the option is selected and the course spots are full when the student is officially registering for the course, he/she would be added to the Waitlist of this course section. Once anyone else drops a spot in the section, .
+When adding courses to the Backpack, students could select the Waitlist option for potential needs. If the option is selected and the course spots are full when the student is officially registering for the course, he/she would be added to the Waitlist of this course section.
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+Once anyone else drops a spot in the section, you'll receive an email of class permission. You are **NOT automatically enrolled** in this class! You could first drop yourself from the waitlist, then add the class with the exact section & class number.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-09 at 4.30.45 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Medical Insurance
 
