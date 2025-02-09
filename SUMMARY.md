@@ -24,7 +24,8 @@
 
 ## Upon Arrival
 
-* [Check-in](upon-arrival/page-1.md)
+* [Check-in Things TODO](upon-arrival/page-1.md)
+* [UM Toolkits](upon-arrival/um-toolkits.md)
 
 ## Academic @ UM
 
