@@ -1,6 +1,7 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+description: '2025 Edition Team: Shuoyu Chen, Yuchen You, Jingjia Peng, Yuefeng Jin'
+cover: .gitbook/assets/Michigan-Flag.jpg
 coverY: 0
 layout:
   cover:
