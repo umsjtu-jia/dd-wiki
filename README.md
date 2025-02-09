@@ -30,3 +30,5 @@ The UM-SJTU Joint Institute Alumni Association (JIA) aims to create a vibrant so
 * UM-SJTU JIA [DD Survival Guide](https://docs.google.com/document/d/1_pf-lEESayPWR-PdVmNsOyS05Sw30sr8/edit?usp=sharing\&ouid=100946512975069109795\&rtpof=true\&sd=true)
 * UM-SJTU Joint Institute Advising Center [DD Wiki](https://umji-wiki.gitbook.io/dd-wiki)
 * UM CSSA [New Student Guide](https://drive.google.com/file/d/10D2sy9YYK4LVRgy756TNyiNMkqV3T3vZ/view?usp=drive_link)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fumsjtu-jia.gitbook.io%2Fdd-wiki\&countColor=%23263759)
