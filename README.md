@@ -23,7 +23,7 @@ layout:
 
 ## About JIA
 
-The UM-SJTU Joint Institute Alumni Association (JIA) aims to create a vibrant social network for students, scholars, and alumni who have participated in the partnership programs between Shanghai Jiao Tong University and the University of Michigan. The organization is lead by JI alumni at Ann Arbor, and develops its member among JI alumni all over the world.
+The UM-SJTU Joint Institute Alumni Association (JIA) aims to create a vibrant social network for students, scholars, and alumni who have participated in the partnership programs between Shanghai Jiao Tong University and the University of Michigan. The organization is led by JI alumni in Ann Arbor, and develops its member among JI alumni all over the world.
 
 ## Credit
 
