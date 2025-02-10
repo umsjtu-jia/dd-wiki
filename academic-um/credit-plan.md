@@ -25,3 +25,4 @@ Check your credit progress in both institutes every semester and plan ahead to m
   * Other EECS: **\[U-M]EECS301**
   * Industrial & Operations Engineering: **\[U-M]IOE265**
 * Industrial & Operations Engineering: Gaining credits in **\[JI]MATH1860J** + **\[JI]MATH2850J** + **\[JI]MATH2860J** could be regarded as gaining credits of **\[U-M]MATH214**.
+* **\[JI or UM]TC300 + \[JI]ME395** can now be transferred to **\[UM]TCHNCLCM300 + \[UM]TCHNCLCM497**.
