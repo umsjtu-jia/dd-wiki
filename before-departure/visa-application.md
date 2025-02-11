@@ -168,5 +168,5 @@ It usually takes a few business days to process the visa. Once the status shown 
 * University of Michigan Admission Financial Resource Statement: [https://admissions.umich.edu/sites/default/files/file/Financial\_Resources\_Statement.pdf](https://admissions.umich.edu/sites/default/files/file/Financial_Resources_Statement.pdf)
 * DS-160 Fill-out Online: [https://ceac.state.gov/genniv/](https://ceac.state.gov/genniv/)
 * I-901 Fee Payment Online: [https://www.fmjfee.com/i901fee/index.html](https://www.fmjfee.com/i901fee/index.html)
-* CGI (Visa Interview Appointment): [https://portal.ustraveldocs.com/](https://portal.ustraveldocs.com/)
+* CGI (Visa Interview Appointment): [https://www.usvisascheduling.com/zh-CN/SignIn](https://www.usvisascheduling.com/zh-CN/SignIn)
 * Visa status check: [https://ceac.state.gov/CEACStatTracker/Status.aspx](https://ceac.state.gov/CEACStatTracker/Status.aspx)
