@@ -44,7 +44,9 @@ Rates listed here: ([https://housing.umich.edu/graduate-rates/](https://housing.
 
 [https://offcampushousing.umich.edu/listing](https://offcampushousing.umich.edu/listing)
 
-Here we will focus mainly on housing on north campus, and you can use the above link to look for other places if needed!
+This section primarily highlights housing options on North Campus. You may refer to the link above to explore additional locations if needed.&#x20;
+
+**Note:** The information provided below may not be up to date. For properties you’re interested in, please visit the official property websites for the most current details. All prices listed are in USD ($).
 
 Common terms:
 
@@ -546,15 +548,17 @@ Notes:
 
 ## Other Tips
 
-### Move-in and Move-out Time
+### Move-in/Move-out Time and Lease Structure
 
-Some apartments offer one-year leases, where the first month (Usually July - Aug) is counted as a “setup period”, and you cannot occupy the apartment during that period though you’re paying the “installation fee”, which is likely equivalent to your rent. Calculate your monthly living cost as the total payment/length of your occupation + utility bills (electricity, gas, internet, etc. Older apartments will have higher utility bills due to bad insolation). In the case of a one-year lease with installation time, the monthly cost is actually 1/11 of all the costs, not what’s listed on the website. Most student apartments (Courtyard, Willowtree, and apartments on central campus) charge installation fees, but more general focus apartments (apartments to the north of the city, usually outside of walking distance to the campus) offer monthly leases starting anytime.
+Some apartments offer one-year leases with a “**setup period**” (typically July–August), during which tenants cannot occupy the unit despite paying an “**installation fee**” (often equivalent to one month’s rent). To calculate your true monthly living cost, divide the total lease payments by 11 months of actual occupancy and add utilities (electricity, gas, internet, etc.). Older apartments may incur higher utility bills due to poor insulation.
+
+Student-focused apartments (e.g., Courtyard, Willowtree, or Central Campus properties) frequently include installation fees, while general apartments (often north of the city, beyond walking distance to campus) typically offer monthly leases with flexible start dates and no setup fees. Many properties allow early move-ins for an additional fee; contact the leasing office via email as soon as possible to confirm availability and costs if you need that. _**Always verify terms directly with the property’s website or leasing team.**_
 
 ### Rent and Extra Fees
 
-Be aware: The leasing office often charges you fees outside of your rent, including monthly fees for drainage, management, garbage collection, etc.
+Be aware that leasing offices often charge fees beyond base rent, including monthly costs for drainage, management, garbage collection, and other services. Additional fees may apply for lease changes, terminations, or renewals. Do not agree to terms or payments immediately—many terms are negotiable, and some fees may even be illegal in Ann Arbor. Keep in mind that you are not required to decide on lease renewal until 150 days before your current lease ends and you retain the legal right to sublease your unit.
 
-Some leasing offices will charge extra when you change, terminate, or renew your lease. Don’t agree to the terms or payment immediately when they mention it! Most terms are negotiable, some might even be illegal in Ann Arbor. Highlights: You don’t have to decide whether to renew a lease until 150 days before the end of the current lease. You have the right to sublease.
+Always review contracts carefully and negotiate unclear or unreasonable charges. For clarity, consult the leasing office or local tenant resources before committing.
 
 ### Rights and Duties
 
