@@ -37,12 +37,12 @@ icon: couch
 * [ ] **Desk and Chairs** (Make Sure the Desk is Big Enough to Hold a Screen Stand)
 * [ ] **Screen and its Stand**: for better computer using experience
 * [ ] **Shower Curtain** (willow tree will charge for this!!): bring it or get it at leasing office for WT residents
-* [ ] **Router + WIFI** (Xfinity): the company will hold special market on the move-in day
+* [ ] **Router + WIFI** (Xfinity): the company will hold special market on the move-in day at Wilow Tree
 * [ ] **AT\&T/T-Mobile** (Mint : cheap, Enc: buy it in China): T-Mobile has better user experience on North Campus while ATT has better ones at central campus.
 * [ ] **Pot** (frying pan): you could buy them in Way One
-* [ ] **Rice Cooker**: It's recommended to bring it from China (of course it should be US standard 110V)
+* [ ] **Rice Cooker, Microwave Oven**: It's recommended to bring it from China (of course it should support US standard 110V)
 * [ ] **Portable Wardrobe**
 * [ ] **Mac/IPad/IPhone**: UMich has its own tech shop with slightly cheaper apple items, and when comparing its price with those in China please take the tax into consideration.
-* [ ] **Kettle and Water Filter** (or buy Bottled mineral water in Kroger): tap water is not tasty, you could buy drinking water from Kroger or drink fresh water on Campus.
+* [ ] **Kettle and Water Filter** (or buy bottled mineral water in Kroger): tap water is not tasty, you could buy drinking water from Kroger or drink fresh water on Campus.
 * [ ] **Coat hanger, Rack**
 * [ ] **Tooth Brush, Shampoo**… (from Kroger)
