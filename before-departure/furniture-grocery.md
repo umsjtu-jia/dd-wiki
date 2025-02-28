@@ -8,11 +8,11 @@ icon: couch
 
 ### **Online**: Amazon, Ikea, Temu, From other older students (wechat dd - group) <a href="#shopping-platform-gou-wu-ping-tai" id="shopping-platform-gou-wu-ping-tai"></a>
 
-1️⃣ Price: Ikea >= Amazon >> Temu
+1️⃣ **Price**: Ikea >= Amazon >> Temu
 
-2️⃣ Reliability: Amazon >= Ikea > Temu
+2️⃣ **Reliability**: Amazon >= Ikea > Temu
 
-3️⃣ Delivery Speed: Amazon (1 \~ 2 days) >> Ikea ( < 1 week ) >> Temu
+3️⃣ **Delivery Speed**: Amazon (1 \~ 2 days) >> Ikea ( < 1 week ) >> Temu
 
 🌟 It's recommended that you buy furniture and second-hand items from older students who are leaving Ann Arbor, but make sure you have places to store them until you arrive at Ann Arbor, usually it's a good choice to ask some senior students for help. 🙋
 
@@ -30,19 +30,19 @@ icon: couch
 
 ### Items Needed When First Arriving  <a href="#items-needed-when-first-arriving-shou-ci-dao-da-de-wu-zi" id="items-needed-when-first-arriving-shou-ci-dao-da-de-wu-zi"></a>
 
-* [ ] &#x20; Bed Frame (King > Queen > Full > Twin \~ SJTU Dorm bed size)
-* [ ] Mattress (Costco)
-* [ ] Lamp (Target/Ikea): willow tree has weak in-door light, it's recommended you buy some extra lamps with bulb (some lamps here does not has bulb as default)
-* [ ] Dining Table & chairs
-* [ ] Chairs for Desk, Desk
-* [ ] (Screen and its stand): for better computer using experience
-* [ ] Shower Curtain (willow tree will charge for this!!): bring it or get it at leasing office for WT residents
-* [ ] router + wifi (Xfinity): the company will hold special market on the move-in day
-* [ ] AT\&T/T-Mobile (Mint : cheap, Enc: buy it in China): T-Mobile has better user experience on North Campus while ATT has better ones at central campus.
-* [ ] pot (frying pan): you could buy them in Way One
-* [ ] rice cooker: It's recommended to bring it from China (of course it should be US standard 110V)
-* [ ] Portable Wardrobe
-* [ ] Mac/IPad/IPhone: UMich has its own tech shop with slightly cheaper apple items, and when comparing its price with those in China please take the tax into consideration.
-* [ ] Kettle and water filter (or buy Bottled mineral water in Kroger): tap water is not tasty, you could buy drinking water from Kroger or drink fresh water on Campus.
-* [ ] Coat hanger, Rack
-* [ ] tooth brush, shampoo… (from Kroger)
+* [ ] **Bed Frame** (King > Queen > Full > Twin \~ SJTU Dorm bed size)
+* [ ] **Mattress** (Costco)
+* [ ] **Lamp** (Target/Ikea): Willow Tree has weak in-door light, it's recommended you buy some extra lamps with bulb (some lamps here does not has bulb as default)
+* [ ] **Dining Table & Chairs**
+* [ ] **Desk and Chairs** (Make Sure the Desk is Big Enough to Hold a Screen Stand)
+* [ ] **Screen and its Stand**: for better computer using experience
+* [ ] **Shower Curtain** (willow tree will charge for this!!): bring it or get it at leasing office for WT residents
+* [ ] **Router + WIFI** (Xfinity): the company will hold special market on the move-in day
+* [ ] **AT\&T/T-Mobile** (Mint : cheap, Enc: buy it in China): T-Mobile has better user experience on North Campus while ATT has better ones at central campus.
+* [ ] **Pot** (frying pan): you could buy them in Way One
+* [ ] **Rice Cooker**: It's recommended to bring it from China (of course it should be US standard 110V)
+* [ ] **Portable Wardrobe**
+* [ ] **Mac/IPad/IPhone**: UMich has its own tech shop with slightly cheaper apple items, and when comparing its price with those in China please take the tax into consideration.
+* [ ] **Kettle and Water Filter** (or buy Bottled mineral water in Kroger): tap water is not tasty, you could buy drinking water from Kroger or drink fresh water on Campus.
+* [ ] **Coat hanger, Rack**
+* [ ] **Tooth Brush, Shampoo**… (from Kroger)
