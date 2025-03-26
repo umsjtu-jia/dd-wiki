@@ -81,4 +81,4 @@ To avoid carrying **heavy winter clothing and bedding**, consider **sea shipping
 
 * **FedEx** – [International shipping services](https://www.fedex.com/en-us/shipping/international.html)
 * **DHL** – [Global shipping options](https://www.dhl.com/global-en/home.html)
-* Niween: Chinese shipping: 1717 Plymouth Road, Ann Arbor, MI 48105
+* Niwenn Chinese shipping service. Address: 1717 Plymouth Road, Ann Arbor, MI 48105
