@@ -31,7 +31,7 @@
 ## Academic @ UM
 
 * [UM Course](academic-um/credit-transfer.md)
-* [Credit Plan](academic-um/credit-plan.md)
+* [Credit Transfer](academic-um/credit-plan.md)
 * [Research Opportunity](academic-um/research-opportunity.md)
 * [Internship](academic-um/internship.md)
 

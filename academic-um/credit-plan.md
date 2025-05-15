@@ -2,11 +2,9 @@
 icon: ruler-triangle
 ---
 
-# Credit Plan
+# Credit Transfer
 
-## Credit Transfer
-
-### Websites
+## Websites
 
 For credits from U-M to JI, please refer to the [JI credit transfer database](https://app.ji.sjtu.edu.cn/equivalence).
 
@@ -18,7 +16,7 @@ If you the course credit you want to transfer from U-M to JI isn't listed in the
 Check your credit progress in both institutes every semester and plan ahead to make sure that you could graduate in the very semester as you wish. Take courses whose credit could be counted in both institutes would be a good idea to reduce credit pressure.
 {% endhint %}
 
-### Suggestions
+## Suggestions
 
 * **\[JI]ECE4010J** could be transferred to U-M as different credits according to students' specific requirement. Some examples are listed below.
   * Data Science: **\[U-M]STATS412** or **\[U-M]STATS250**
