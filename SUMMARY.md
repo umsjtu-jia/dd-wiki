@@ -32,7 +32,7 @@
 
 * [UM Course](academic-um/credit-transfer.md)
 * [Credit Transfer](academic-um/credit-plan.md)
-* [Research Opportunity](academic-um/research-opportunity.md)
+* [Research Opportunities](academic-um/research-opportunity.md)
 * [Internship](academic-um/internship.md)
 
 ## Life @ US
